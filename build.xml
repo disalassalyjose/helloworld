@@ -1,3 +1,8 @@
+Hi This is to test the Jenkins.
+
+
+
+
 <project name="My Project" default="help" basedir=".">
   <!-- Define the properties used by the build -->
   <property name="app.name"      value="helloWorld"/>
